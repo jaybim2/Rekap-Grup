@@ -32,7 +32,7 @@ from PIL import Image
 import pytesseract
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
-BOT_TOKEN = "7958597993:AAEbmRwekkiiVv1GuF7q2wakSZvpt0BDlFU"
+BOT_TOKEN = "ISI_TOKEN_ANDA"
 
 def setup_tesseract():
     common_paths = [
